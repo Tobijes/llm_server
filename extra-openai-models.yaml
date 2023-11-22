@@ -1,0 +1,3 @@
+- model_id: litellm-mistral
+  model_name: mistral
+  api_base: "http://localhost:8000"
